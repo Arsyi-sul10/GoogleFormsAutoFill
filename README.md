@@ -1,4 +1,4 @@
-# materipodcast24okt
+# MateriPodcastBachotMalamMinggu 24Oktober
 
 Awkward Moment Podcast
 1. Pernah gak sih tiba2 kalian kepikiran hal awkard yang pernah kalian alami di jaman dulu, kalo iya hal awkwardnya kayak gmn? dan gimana caranya kalian ngatasin hal awkwardnya itu. (Minimal 1 Momen)
