@@ -17,5 +17,6 @@ Awkward Moment Podcast
 
 8.Pernah kenalan sama seseorang sebelumnya tapi lupa namanya, bahkan ga inget sama sekali.
 
-ZOOM MEETING : https://zoom.us/j/9234395411?pwd=THpMRTdWWWgwSHJjK2M5dWhkdXFkZz09
+[ZOOM MEETING](https://zoom.us/j/9234395411?pwd=THpMRTdWWWgwSHJjK2M5dWhkdXFkZz09)
+
 # CLICK THE LINK TO JOIN NOW
