@@ -16,3 +16,5 @@ Awkward Moment Podcast
 7. Ngomong sendiri, lagi kesel/seneng sendiri, tiba2 ada orang yang gak kamu kenal atau teman kamu yang tiba2 nyamperin kamu.
 
 8.Pernah kenalan sama seseorang sebelumnya tapi lupa namanya, bahkan ga inget sama sekali.
+
+ZOOM MEETING : https://zoom.us/j/3479210181?pwd=cnVWUUJJVmdpRy9YOE1wcHpJWGNLQT09
