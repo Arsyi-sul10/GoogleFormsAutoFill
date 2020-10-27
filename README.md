@@ -1,71 +1,46 @@
-
-
-
-#include<stdio.h>
-
 int main(){
-float uang;
-int menu;
-float kembalian;
-char user;
 
-printf("Total amount of money youve already put :  ", uang);
-printf("Name list of beverage: ");
-    printf("\n\n");
+ struct ven_machine drinks[3] = {"Item1", "Item2", "Item3"};
 
-    printf("1. Item1");                          printf("\t\t\tRp . 5000\n");
+    int d;
 
-    printf("2. Item2");                        printf("\t\t\tRp . 6000\n");
+    int r;
 
-    printf("3. Item3");                   printf("\t\t\tRp . 7000\n");
+    struct machine sd;
 
- printf("Enter your choice: ");
+    struct machine pr;
 
-    scanf("%d",&menu);
+    struct machine py;
 
-
-
-    switch(menu)  {
-
-    case 1:
-
-         printf("You choose Item1");                  printf("\tRp . 5000\n");
-
-         break;
-
-    case 2:
-
-         printf("You choose Item2");                printf("\tRRp . 6000\n");
-
-         break;
-
-    case 3:
-
-         printf("You choose Item3");           printf("\tRp . 7000\n");
-
-         break;
-
-    default:
-        printf("Invalid Input\n");
-        break;
+for(d = 0;d < 5; d++){
+    printf("%c", drinks[d].display);
     }
 
- printf("Enter your money: ");
+    for(r = 0; r < 20; r++){
 
-    scanf("%.2f",&uang);
+    printf("Please enter a number\n");
 
-    printf("\n\n");
+    scanf("%d", &sd.select);
 
-    if(uang > 0)
-        printf("Pembayaran berhasil\n");
-    else
-        printf("Pembayaran Gagal\n");
+   if (sd.select == 1)
+ {
+   printf("You selected Item1\n", sd.select);
+ }
+   if (sd.select == 2)
+ {
 
-    printf("\n\n");
-
-    kembalian = uang - menu;
-    printf("Kembalian anda %.2f", kembalian);
+   printf("You selected Item2\n", sd.select);
+ }
 
 
+   if (sd.select == 3)
+
+ {
+
+   printf("You selected Item3\n", sd.select);
+ }
+
+return 0;
 }
+
 
