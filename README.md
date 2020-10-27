@@ -1,3 +1,15 @@
+#include<stdio.h>
+struct ven_machine
+{
+
+int select;
+int harga;
+int menu;
+int bayar;
+ char display;
+
+};
+
 int main(){
 
  struct ven_machine drinks[3] = {"Item1", "Item2", "Item3"};
@@ -6,11 +18,11 @@ int main(){
 
     int r;
 
-    struct machine sd;
+    struct ven_machine sd;
 
-    struct machine pr;
+    struct ven_machine pr;
 
-    struct machine py;
+    struct ven_machine py;
 
 for(d = 0;d < 5; d++){
     printf("%c", drinks[d].display);
@@ -32,15 +44,15 @@ for(d = 0;d < 5; d++){
    printf("You selected Item2\n", sd.select);
  }
 
-
    if (sd.select == 3)
-
  {
 
    printf("You selected Item3\n", sd.select);
- }
+        }
+    else{
+            printf("Input invalid, Only 3 Items are \n");
+        }
+    }
+return (0);
 
-return 0;
 }
-
-
