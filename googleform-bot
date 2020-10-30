@@ -1,0 +1,5 @@
+// ni dim paste kodingan ini ke Console
+
+var x = document.getElementsByClassName("quantumWizTogglePaperradioEl freebirdThemedRadio freebirdThemedRadioDarkerDisabled");  var count = 0; for(var i = 0; i < x.length; i++){ if(x[i].getAttribute('data-value') == "5"){ count++; x[i].click(); } } alert(count);
+
+//Jadi diatas itu variabel x ngambil documents.getElements dengan class namenya.
