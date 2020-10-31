@@ -4,7 +4,7 @@ Buka file botgooglenya dulu
 
 A. Ke Google Console Kau 
 
-Right click ke arah the google form page.<br/>
+Right click google form pagenya.<br/>
 Pencet inspect > console<br/>
 Copy paste the console code ke console<br/>
 Press Enter<br/>
