@@ -14,7 +14,7 @@ B. Bookmark (Advantage: Do not have to copy paste the code again and again)
 buka google chrome<br/>
 click 3 titik linear di kanan atas.<br/>
 Bookmarks > Bookmark Manager<br/>
-Right click ke the manager screen<br/>
+Right click layarnya<br/>
 click "Add Page"<br/>
 tulis name "GRD Bot" dan pada url sectionnya paste js code di fle lainnya.<br/>
 
